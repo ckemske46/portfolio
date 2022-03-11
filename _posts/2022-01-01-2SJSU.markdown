@@ -60,7 +60,8 @@ style="width:50%;height:500px;object-fit:cover;">
     "> My University Projects </p>
 
 This page contains the various projects I completed during San Jose State University, and De Anza Community College. Summaries for each of the projects are listed below with the skills I learned and the concepts that were covered with each of these projects. 
-__Each project file link will be located at the bottom of the webpage in the "Appendix" section.__  
+
+* __Each project file link will be located at the bottom of the webpage in the "Appendix" section.__  
 
 Microsoft Excel Projects:  
 * Household Budget -  Accounting Principles 
@@ -89,13 +90,13 @@ Budgeting for nonprofits entities is extremely important. These analyses need to
 
 ### Portfolio Management - Appendix Figure #2
 
-This assignment was part of my major specific class “Business Analytics” in which I was studying and practicing different portfolio risk management principles. Within the equities market, each stock can be assigned a beta or in our example, the variance of the security. The variance is how much the price deviated from the mean in either direction. However, securities can also have covariances or relationships to each other that are positive and negative. To construct a portfolio with variance risk accounted for, you must develop a model that can provide risk adjusted allocations based on expected return, variance, and covariance values. 
+This assignment was part of my major specific class “Business Analytics” in which I was studying and practicing different portfolio risk management principles. Within the equities market, each stock can be assigned a beta or in our example, the standard deviation of the security. The beta shows how much the underlying security will move in a spcifc direction relative t the entire market price movement. The variance (standard deviation squared) is how much the price deviated from the mean in either direction, not just increased OR decreased. However, securities can also have covariances or relationships to each other that are positive and negative. To construct a portfolio with variance risk accounted for, you must develop a model that can provide risk adjusted allocations based on expected return, variance, and covariance values. 
 
 __Step 1:__ Six fictitious equities with their own beta’s outlined and the relationship coefficients they have to each other were given in the prompt. 
 
-__Step 2:__ First, we are tasked with seeing what a portfolio model would return for allocations based on a risk-free environment of each of the securities. The outcome obviously is not adequate as the model just returns the highest expected return with no risk varibles. The only constraint is that the portfolio has to have a 100% allocation of each of the six securities. 
+__Step 2:__ First, we are tasked with seeing what a portfolio model would return for allocations based on a risk-free environment of each of the securities. The outcome obviously is not adequate as the model just returns the highest expected return with no risk varibles inputed. The only constraint in the portfolio was to have a 100% allocation of each of the six securities. 
 
-__Step 3:__ Now, we construct a model that provides constraints in the amount of capital each security can feasibly receive. Each security is given its expected return based on normal market conditions, with each constraint of allocation. The model returns a portfolio with an expected return of 69.2% based on that composition of securities. Again, this portfolio is unrealistic as it does not incorporate any market risk in the calculations. 
+__Step 3:__ Now, we construct a model that provides constraints in the amount of capital each security can feasibly receive. Each security is given its expected return based on normal market conditions, with each constraint of maximum allocation. The model returns a portfolio with an expected return of 69.2% based on that composition of securities. Again, this portfolio is unrealistic as it does not incorporate any market risk in the calculations. 
 
 __Step 4:__ The final part of this portfolio risk calculation is to use the variance of each security with the covariances of the pairs to produce a portfolio with a specific risk level and expected return. The model uses each of the expected returns for each security as the constraint for overall portfolio expected return. The second constraint provides that the portfolio allocation cannot exceed 100%. The objective function uses a custom formula that can calculate the entire market risk of the portfolio of securities given each securities variance and covariances. 
 * =SQRT(S1*(Portfolio Allocation)...S6*(Portfolio Allocation))
@@ -106,20 +107,20 @@ The model returns the overall portfolio variance of the basket of securities cho
 ### Video Game Simulation - Appendix Figure #3
 
 Simulation Theory is an important aspect of analytics as understanding the concept of it allows for predictive modeling. Predictive analytics assists in forecasting different events and their outcomes such as revenue projections, cost reductions over time, weather, supply chain transportation times, etc. 
-The project covered in this post consists of building a turn-based game model in Microsoft Excel that uses probability distributions to determine what kind of event occurs in the “game.” 
+This project consists of building a turn-based game model in Microsoft Excel that uses probability distributions to determine what kind of event occurs in the “game.” 
 I was allowed to choose specific equipment for our character. These different equipment used different probability distributions and had different effects. 
 * Examples: the “sword” or the “bow and arrow” which used uniform or normal distribution, respectively. 
 
-How the game is configured is that you create formulas using the =IF() function to provide the model the ability to determine what event should be happening based on the probabilities of the events that can occur for my character and the enemy. 
+How the game was configured is that you create formulas using the =IF() function to provide the model the ability to determine what event should be happening based on the probabilities of the events that can occur for my character and the opponent character. 
 
-Then, you use the =RAND() function to create random numbers to be the variable that dictates which event occurs based on the probabilities. I used the =RAND() function to calculate the strength of each event that occurred using the formulas provided with the event.
-* Example: random number used to determine the value of normal attack with a uniform duration between 50 and 70. 
+Then, use the =RAND() function to create random numbers to be the variable that dictates which event occurs based on the probabilities. I used the =RAND() function to calculate the strength of each event that occurred using the formulas provided with the event.
+* Example: random number used to determine the value of normal attack with a uniform distibution between 50 and 70. 
 
 Once the model is set up, you can play a turn based game with the enemy character being completely controlled by the random numbers generated. I was in control of my character’s actions and was able to deplete the opponents health in 76 turns of simulation. 
 
 ### Stratgeic Managemnt & Virtual Study Abroad Program - Appendix Figure #4-7
 
-Early Spring 2020, I applied and was accepted by the Global Studies Department to take part in the annual Business German Study Abroad Program. The program took the place of my Senior Capstone class “Strategic Management.” The class was divided into two main parts over the summer of 2020. The program was initially supposed to be in Germany but due to Covid restrictions, the program was moved to virtual delivery. 
+In early Spring 2020, I applied and was accepted by the Global Studies Department to take part in the annual Business German Study Abroad Program. The program took the place of my Senior Capstone class “Strategic Management.” The class was divided into two main parts over the summer of 2020. The program was initially supposed to be in Germany but due to Covid restrictions, the program was moved to virtual delivery. 
 
 Files included:
 * Midterm Presentation __(#4)__
@@ -127,11 +128,11 @@ Files included:
 * Conecta Sertao Project __(#6)__
 * Technisce Hochschule Ingolstadt Certificate __(#7)__
 
-The first section of the course was taught by SJSU faculty and was an overview of strategic concepts such as entrance strategies into emerging markets while also studying the structure of different multinational corporations. The main project for the course was a team-based report of a German Automaker in which we did a deep dive into their corporate structure and operations. After this section was complete, the team had to propose a strategy for entering an emerging market.
+The first section of the course was taught by SJSU faculty and was an overview of strategic concepts such as entrance strategies into emerging markets while also studying the structure of different multinational corporations. The main project for the course was a team-based report of the German Automaker, Porsche, in which we did a deep dive into their corporate structure and operations. After this section was complete, the team had to propose a strategy for entering an emerging market.
 
-The second part of the course was taught by faculty of the German University Technische Hochschule Ingolstadt. It lasted one month in which the class was lectured about the process of starting an entrepreneurial venture in the 21st century. Teams were divided into groups of 3-4 students ranging from Germany, India, Brazil and the United States. The mock business ventures had to align with one of the United Nations' Sustainable Development Goals. My team chose to help solve the problem of food scarcity in Northern Brazil in the region of Sertao. The on-demand delivery application we devised was named “Conecta Sertao" in which the business model was a two-way marketplace for food producers and delivery drivers to connect and fulfill food deliveries across the region. The Sertao region is extremely barren in the west, yet rich in soil in the east. Our goal was to provide new avenues for delivering food from the east to west regions. 
+The second part of the course was taught by faculty of the German University; Technische Hochschule Ingolstadt. It lasted one month in which the class was lectured about the process of starting an entrepreneurial venture in the 21st century. Teams were divided into groups of 3-4 students ranging from Germany, India, Brazil and the United States. The mock business ventures had to align with one of the United Nations' Sustainable Development Goals. My team chose to help solve the problem of food scarcity in Northern Brazil in the region of Sertao. The on-demand delivery application we devised was named “Conecta Sertao" in which the business model was a two-way marketplace for food producers and delivery drivers to connect and fulfill food deliveries across the region. The Sertao region is extremely barren in the west, yet rich in soil in the east. Our goal was to provide new avenues for delivering food from the east to western regions. 
 
-The conclusion of the course was after the teams presented their mock startups to a panel of professional German Professional Venture Capitalists and proceed to enegage in a Q&A session which each of the panel members. The questions ranged from how would the team be able to streamline development of a two way marketplace bringing suppliers and delviery drivers on the application simultaneously, to how the team calculated and forecasts our revenue projections for the next several years. Overall, great experience being able to work with international students and have expsosure to business leaders from Germany devleopeing a project from the ground up. Truely felt as if I was embarking on my startup journey and it provided great practical experience. 
+The conclusion of the course was after the teams presented their mock startups to a panel of professional German Venture Capitalists and proceed to enegage in a Q&A session which each of the panel members. The questions ranged from how would the team be able to streamline development of a two way marketplace bringing suppliers and delviery drivers on the application simultaneously, to how the team calculated and forecasted the revenue projections for the next several years. Overall, great experience being able to work with international students and have expsosure to business leaders from Germany developing a project from the ground up. This experience truly felt as if I was embarking on my startup journey and it provided great practical experience. 
 
 <p style="font-weight:bold;
     padding-left:300px;
@@ -140,13 +141,13 @@ The conclusion of the course was after the teams presented their mock startups t
     "> Appendix: Excel Projects </p>
 
 <p style="text-align: center; font-size: 20px;">Household Budget Excel File (#1) </p>
-<a href="/portfolio/1-SJSU-Projects//Excel/Household-Budget.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Householdimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+<a href="/portfolio/1-SJSU-Projects/Excel/Household-Budget.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Householdimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <p style="text-align: center; font-size: 20px;">Portfolio Management Excel File (#2) </p>
-<a href="/portfolio/1-SJSU-Projects//Excel/Portfolio-Management.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Portfolioimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+<a href="/portfolio/1-SJSU-Projects/Excel/Portfolio-Management.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Portfolioimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <p style="text-align: center; font-size: 20px;">Simulation Theory Excel File (#3) </p>
-<a href="/portfolio/1-SJSU-Projects//Excel/Simulation-Project.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+<a href="/portfolio/1-SJSU-Projects/Excel/Simulation-Project.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <p style="font-weight:bold;
     padding-left:145px;

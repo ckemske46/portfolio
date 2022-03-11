@@ -1,0 +1,114 @@
+I"�<style>
+.page-image{
+    visibility: hidden;
+}
+.page-cover-image{
+    visibility: hidden;
+    height: 0px;
+}
+.header-page{
+    height: 0px;
+}
+</style>
+
+<style>
+.comment-area{
+    visibility: hidden;
+}
+.page-title{
+    visibility: hidden;
+}
+.page-date{
+    visibility: hidden;
+}
+</style>
+
+<style>
+.page-footer{
+    visibility: hidden;
+}
+</style>
+
+<p><img src="/portfolio/assets/img/files.png" alt="Misc. Files" class="center" style="width:500px;height:500pxpx;object-fit:cover;" /></p>
+
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%; 
+</style>
+
+<p style="font-weight:bold;
+    padding-left:325px;
+    padding-right:250px;
+    font-size: 30px;
+    "> Additional Files</p>
+
+<p>This web page houses various files pertaining to leadership program certificates, a letter of reccommendation, and other files that are correlated to my university and early work experiences. These files serves as evidence to my completion in these programs and offer more insight into my professional character development.</p>
+
+<p style="font-weight:bold;
+    padding-left:310px;
+    padding-right:250px;
+    font-size: 20px;
+    ">"Keys to Success" Project </p>
+
+<p>In my final semester at San Jose State University, I chose to complete a “Soft Skills” course for one of my business electives. I believed that developing strong interpersonal and communication skills was essential, alongside a strong base of fundamental knowledge of business concepts, to be competitive in a professional business environment. This project was completed over the entire duration of the semester. In the Adobe Spark weblink, you will be directed through various concepts such as business communication ettiquette to appropriate professional business attire. Each clickable weblink within the main page, outlines the skills practiced and the action plan formulated to implement those skills into my routine.</p>
+
+<ul>
+  <li>The project was completed in Adobe Spark, I did not formulate the HTML and CSS code to produce the webpage.</li>
+</ul>
+
+<iframe src="https://express.adobe.com/page/285ECGBBI4CLI/" style="width:100%;height:600px;"> Soft Skills Project Link </iframe>
+
+<p style="font-weight:bold;
+    padding-left:240px;
+    padding-right:250px;
+    font-size: 20px;
+    "> Letter of Recommendation - Professor Shirley</p>
+
+<p>This letter of recommendation was used in my application to the Gary J. Sbona Honors Program at San Jose State University. It was written by my Senior Capstone/German Study Abroad course professor, Professor Shirley. The letter was optional in the application process. However, I believed that putting in extra effort for the application and building a relationship with my professor would prove to be beneficial in the long run. These kinds words from Professor Shirley outlined my skills adequately and will follow me throughout my career.</p>
+
+<iframe src="/portfolio/1-Additional-Files/Letter-of-Recommendation.pdf" width="100%" height="500px"> Letter of Recommendation - Sbona Honors Program </iframe>
+
+<p style="font-weight:bold;
+    padding-left:240px;
+    padding-right:250px;
+    font-size: 20px;
+    "> National Society of Leadership and Success</p>
+
+<p>After completing my Senior Capstone course, along with the month long Virtual Study Abroad program, Professor Shirley nominated me for the National Society of Leadership and Success and I was inducted in Fall of 2020. In order to be formally inducted into the honors society, the applicant must complete various program coursework, attend live speaker broadcasts by various thought leaders and business leaders, and conduct monthly meetings with a predetermined group of other applciants. I was appointed by my teammembers to lead the meetings and record our minutes for submission and plan the next set of activities to progress through the program. This program was fruitful and allowed me to meet other like-minded individuals while practicing leadership, communication, and team management skills.</p>
+
+<p><img src="/portfolio/1-Additional-Files/nsls.jpeg" alt="NSLS Certificate" style="width:100%;height:100%;" /></p>
+
+<p style="font-weight:bold;
+    padding-left:250px;
+    padding-right:250px;
+    font-size: 20px;
+    "> Leadership and Career Certificate Program</p>
+
+<p>My participation in this program was during my last semester at San Jose State University. It was free for all SJSU students and I was currently engaged in the Sbona Honors Program yet I wanted to continue to divserify my experiences and grow my professional network and business skills. The program consisted of various coursework and self-reflections that had to be submitted throughout the semester. The program focused on self leadership versus team leadership which I practiced in the NSLS program I completed a semester prior.</p>
+
+<p><img src="/portfolio/1-Additional-Files/leadership.jpeg" alt="LCCP Certificate" style="width:100%;height:100%;" /></p>
+
+<p style="font-weight:bold;
+    padding-left:325px;
+    padding-right:250px;
+    font-size: 20px;
+    ">President's Scholar Award</p>
+
+<p>I was awarded the President’s Scholar Distiction for two or more consecutive semesters with a 4.0 GPA. I recieved a 4.0 GPA each semester from Spring 2020 to Spring 2021.</p>
+
+<p><img src="/portfolio/1-Additional-Files/ps.jpg" alt="President's Scholar Slide" style="width:1000px;height:550px;" /></p>
+
+<p style="font-weight:bold;
+    padding-left:220px;
+    padding-right:250px;
+    font-size: 20px;
+    "> Aquatics Program Coordinator Leadership Profile</p>
+
+<p>The below image is my Program Coordinator Profile from my employement with the Northwest YMCA in Cupertino, California. This role was my frist professional role in which I was tasked with overseeing a large swim lesson program and managing the day-to-day operations of those lessons. I became part of the Northwest Aquatics leadership team when I was 19 and occupied the role for 1 year and several months until my first semester at San Jose State Univeristy began. Thanks to my direct supervisor, I was able to grow my professional skills quickly and learned how to manage others at a young age. I owe a lot of my work ethic development and priority-driven mindset to my time in this role.</p>
+
+<p><img src="/portfolio/1-Additional-Files/coordinator.jpeg" alt="Program Coordinator Profile" style="width:100%;height:100%;" /></p>
+:ET

@@ -54,8 +54,8 @@ tags:
 </style> 
 
 <p style="font-weight:bold;
-    padding-left:210px;
-    padding-right:215px;
+    padding-left:216px;
+    padding-right:200px;
     font-size: 30px;
     "> Introduction to My Personal Portfolio </p>
 
@@ -75,12 +75,12 @@ I was born and raised in San Jose, CA and I proudly support the Bay Area in all 
 
 After transferring from De Anza to San Jose State University, I was bestowed the task of choosing my major for me to specialize in. A wise old English PhD told me - amply after I cleaned his garage for him for some extra cash during the summer months - that my time at university should be a time of overcoming challenges, high achievement, and something that can bring real value to the world. 
 
-Business Analytics seemed like the right fit for me as it requires close attention to detail, a robust logical mindset, along with the ability to communicate effectively to others. I wanted to challenge myself and make sure I learned something meaningful at university. Something that would bring me more opportunity to provide value to the community, the world and myself. 
+Business Analytics was the right fit for me as it requires close attention to detail, a robust logical mindset, and storng organziational skills, along with the ability to communicate effectively to others. I wanted to challenge myself and make sure I learned something meaningful at San Jose State University that would yeild benefits in my career and provide a plethora of future opportunities.  
 
 During my time at De Anza Community College, I:
 * Recieved my A.S in Liberal Arts with a focus on Business Administration and Computer Information Systems 
-* Awarded a Professional Certificate of Accounting for completing extra coursework in tha\t field
-* Played for De Anza's affilated school Waterpolo Team for two years  
+* Awarded a Professional Certificate of Accounting for completing extra coursework 
+* Played for De Anza's collegiate Waterpolo Team for two years  
 * Worked at the Northwest YMCA as the Aquatics Program Coordinator 
 
 Then throughout San Jose State University, I:  
@@ -89,16 +89,14 @@ Then throughout San Jose State University, I:
 * Nominated and inducted in the National Society of Leadership and Success 
 * Completed the Gary J. Sbona Honors Program 
 * Awarded the Dean's Scholar in Spring 2020, & President’s Scholar in Fall 2020
-* Participated in a virtual study abroad program with the German University Technische Hoschiule Inglostadt 
+* Participated in a virtual study abroad program with the German University Technische Hochschule Inglostadt 
 * Entered into SJSU’s startup accelerator contest 
-* Completed a three-month long business development internship with Ambii Inc
-
-These distinctions aren’t the major success of my baccalaureate education. The major success was my time at SJSU has shaped my personal ethos to always bring a strong work ethic to everything I do, my desire to be a lifelong learner and showed me that with hard work, dedication, and passion you can and will achieve what you desire. 
+* Completed a three-month long business development internship with Ambii Inc.
 
 Once I graduated from SJSU, I was not able to find a position that fit my current skill set. I chose to continue my education and learn additional skills to stay current and marketable for future employers. 
 
 I completed Google’s Data Analytics Certification in 6 months while I worked with my father doing general residential contracting.
 
-Building this website also proved to be a great project to enhance my skills in HTML nd CSS logic and syntax. 
+Building this website also proved to be a great project to enhance my skills in HTML/CSS logic and syntax. 
 
 I hope that you find this portfolio to be a satisfactory example of my current abilities and apitiude for learning and professional development.   

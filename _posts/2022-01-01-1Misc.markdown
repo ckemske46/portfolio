@@ -60,7 +60,7 @@ tags:
     font-size: 30px;
     "> Additional Files</p>
 
-This page houses various files pertaining to leadership program certificates, letters of reccommendation, and other files that are correlated to my university and early work experience. These files serves as evidence to my comepltion in these programs and offer more insight into my profesional character development. 
+This web page houses various files pertaining to leadership program certificates, a letter of reccommendation, and other files that are correlated to my university and early work experiences. These files serves as evidence to my completion in these programs and offer more insight into my professional character development. 
 
 <p style="font-weight:bold;
     padding-left:310px;
@@ -68,7 +68,7 @@ This page houses various files pertaining to leadership program certificates, le
     font-size: 20px;
     ">"Keys to Success" Project </p>
 
-In my final semester at San Jose State University, I chose to complete a "Soft Skills" course for one of my business electives. I believed that developing strong interpersonal and communication skills was essential, along side my fundamental knowledge of business concepts, to be competitive in a professional business environment. This project was completed over the entire duration of the semester. In the webpage, you will be directed through various concepts such as business communication ettiquette to appropriate professional business attire. Each clickable web-link within the main page, outlines the skills practiced and the action plan formulated to implement those skills into my routine. 
+In my final semester at San Jose State University, I chose to complete a "Soft Skills" course for one of my business electives. I believed that developing strong interpersonal and communication skills was essential, alongside a strong base of fundamental knowledge of business concepts, to be competitive in a professional business environment. This project was completed over the entire duration of the semester. In the Adobe Spark weblink, you will be directed through various concepts such as business communication ettiquette to appropriate professional business attire. Each clickable weblink within the main page, outlines the skills practiced and the action plan formulated to implement those skills into my routine. 
 
 * The project was completed in Adobe Spark, I did not formulate the HTML and CSS code to produce the webpage.
 
@@ -80,7 +80,7 @@ In my final semester at San Jose State University, I chose to complete a "Soft S
     font-size: 20px;
     "> Letter of Recommendation - Professor Shirley</p>
 
-This letter of recommendation was used in my application to the Gary J. Sbona Honors Program at San Jose State University. It was written by my Senior Capstone course professor, Professor Shirley. The letter was optional in the application process. However, I believed that putting in extra effort for the application and building a relationship with my professor would prove to be beneficial in the long run. These kinds words from Professor Shirley outlined my skills adequately and will follow me throughout my career. 
+This letter of recommendation was used in my application to the Gary J. Sbona Honors Program at San Jose State University. It was written by my Senior Capstone/German Study Abroad course professor, Professor Shirley. The letter was optional in the application process. However, I believed that putting in extra effort for the application and building a relationship with my professor would prove to be beneficial in the long run. These kinds words from Professor Shirley outlined my skills adequately and will follow me throughout my career. 
 
 <iframe src="/portfolio/1-Additional-Files/Letter-of-Recommendation.pdf" width="100%" height="500px"> Letter of Recommendation - Sbona Honors Program </iframe>
 
@@ -90,9 +90,9 @@ This letter of recommendation was used in my application to the Gary J. Sbona Ho
     font-size: 20px;
     "> National Society of Leadership and Success</p>
 
-After completing my Senior Capstone course, along with the month long Virtual Study Abroad program, Professor Shirley nominated me for the National Society of Leadership and Success and I was inducted in Fall of 2020. In order to be formally inducted into the honors society, the applicant must complete various program coursework, attend live speaker broadcasts by various thought leaders and business leaders, and conduct monthly meetings with a predetermined group of other applciants. I was appointed by my teammembers to lead the meetings and record our minutes for submission and plan the next set of activities to progress through the program. This program was fruitful and allowed me to meet other like-minded individuals while practicing leadership, communication, and team management skills. 
+After completing my Senior Capstone course, along with the month long Virtual Study Abroad program, Professor Shirley nominated me for the National Society of Leadership and Success and I was inducted in Fall of 2020. In order to be formally inducted into the honors society, the applicant had to complete various program coursework, attend live speaker broadcasts by various thought leaders and business leaders, and conduct monthly meetings with a predetermined group of other applciants. I was appointed by my teammembers to lead the meetings and record our minutes for submission and plan the next set of activities to progress through the program. This program was fruitful and allowed me to meet other like-minded individuals while practicing leadership, communication, and team management skills. 
 
-<img src="/flexible-jekyll/1-Additional-Files/nsls.jpeg" alt="NSLS Certificate" style="width:100%;height:100%;"> 
+<img src="/portfolio/1-Additional-Files/nsls.jpeg" alt="NSLS Certificate" style="width:100%;height:100%;"> 
 
 <p style="font-weight:bold;
     padding-left:250px;
@@ -120,6 +120,6 @@ I was awarded the President's Scholar Distiction for two or more consecutive sem
     font-size: 20px;
     "> Aquatics Program Coordinator Leadership Profile</p>
 
-The below image is my Program Coordinator Profile from my employement with the Northwest YMCA in Cupertino, California. This role was my frist professional role in which I was tasked with overseeing a large swim lesson program and managing the day-to-day operations of those lessons. I became part of the Northwest Aquatics leadership team when I was 19 and occupied the role for 1 year and several months until my first semester at San Jose State Univeristy began. Thanks to my direct supervisor, I was able to grow my professional skills quickly and learned how to manage others at a young age. I owe a lot of my work ethic development and priority-driven mindset to my time in this role.  
+The below image is my Program Coordinator Profile from my employment with the Northwest YMCA in Cupertino, California. This role was my frist professional role in which I was tasked with overseeing a large swim lesson program and managing the day-to-day operations of those lessons. I became part of the Northwest Aquatics leadership team when I was 19 and occupied the role for 1 year and several months until my first semester at San Jose State Univeristy began. Thanks to my direct supervisor, I was able to grow my professional skills quickly and learned how to manage others at a young age. I owe a lot of my work ethic development and priority-driven mindset to my time in this role.  
 
 <img src="/portfolio/1-Additional-Files/coordinator.jpeg" alt="Program Coordinator Profile" style="width:100%;height:100%;">

@@ -60,7 +60,9 @@ style="width:500px!important;height:500px!important;max-width:800px!important;ma
     "> Gary J. Sbona Honors Program </p>
 
 
-The Gary J. Sbona Honors Program is the Lucas College of Business special course that can be taken for two semesters by any business student who is able to fulfill the application criteria. The purpose of this program is to have the students experience consultancy work and complete full scale marketing and data analytics projects in an unstructured learning environment. The projects given to the students provide real value to our community as the projects were from local companies working with SJSU. __Each project file link will be located at the bottom of the webpage in the “Appendix” section.__
+The Gary J. Sbona Honors Program is the Lucas College of Business special course that can be taken for two semesters by any business student who is able to fulfill the application criteria. The purpose of this program is to have the students experience consultancy work and complete full scale marketing and data analytics projects in an unstructured learning environment. The projects given to the students provide real value to our community as the projects were from local companies/organizations working with SJSU. 
+
+* __Each project file link will be located at the bottom of the webpage in the “Appendix” section.__
 
 Files included:
 * Final Project Presentation
@@ -72,7 +74,7 @@ Our project was divided into five distinct phases to focus our efforts into one 
 
 ### Phase 1: Market Research
 
-Surveyed previous Recovery Cafe donors to derive insights of common motivators for donating and how they view Recovery Cafe. 
+Surveyed previous Recovery Cafe donors to derive insights of common motivators for donating and how they subjectively view Recovery Cafe. 
 Results: Created a list of questions for additional data collection and uncovered some initial motivators for donations, along with creative imagery associated with Recovery Cafe.  
 
 ### Phase 2: Data Validation 
@@ -87,12 +89,12 @@ Results: Drafted three testimonials. One former member turned board member of Re
 
 ### Phase 4: Website Design 
 
-After the creation of three high profile testimonials were drafted and approved by the client-organization, the team moved to producing a plan for implementing the testimonials into the existing website. The team drafted summaries for each page and decided to divide the new web page into three distinct testimonial pages. One of the members, one for board members or employees, and one for donors and community supporters. 
+After the creation of three high profile testimonials and approved by the client-organization, the team moved to producing a plan for implementing the testimonials into the existing website. The team drafted summaries for each page and decided to divide the new web page into three distinct testimonial pages. One of the members, one for board members or employees, and one for donors and community supporters. 
 Results: Created an implementation plan for Recovery Cafe to follow in order to quickly incorporate the testimonials on their website. 
 
 ### Phase 5: Final Reporting and Debriefing 
 
-The final phase of the project was to draft the final report for our faculty advisors and for the client-organization Recovery Cafe. We outlined in our final report each phase’s objectives, successes, failures, and results of our work. During our initial market research phase, the team was able to make contact with a San Jose donor who was in the middle of establishing a Recovery Cafe in Santa Cruz, California. The team was able to make an abridged report (the file attached to this webpage) to help Recovery Cafe improve their marketing efforts. Our own San Jose Recovery Cafe client-organization was pleased with our work and proposed that our work be showcased and given to Recovery Cafes all throughout the country through their distributed resource library. 
+The final phase of the project was to draft the final report for our faculty advisors and for the client-organization, Recovery Cafe. We outlined in our final report each phase’s objectives, successes, failures, and results of our work. During our initial market research phase, the team was able to make contact with a San Jose donor who was in the middle of establishing a Recovery Cafe in Santa Cruz, California. The team was able to make an abridged report (the file attached to this webpage) to help that Recovery Cafe improve their marketing efforts. Our own San Jose Recovery Cafe client-organization was pleased with our work and proposed that our work be showcased and given to Recovery Cafes all throughout the country through their distributed resource library. 
 
 * My team and I also gave our final presentation to various marketing classes as SJSU, as per a request from our faculty advisors, to help showcase how to development strategic implementation plans for new marketing ventures. 
 

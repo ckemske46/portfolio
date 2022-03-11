@@ -164,7 +164,7 @@
   height: 100%; 
 </style>
 
-<p><img src="/portfolio/assets/img/self-study.jpg" alt="Laptop &amp; Book" class="center" style="width:750px!important;height:600px!important;max-width:800px!important;max-height:1000px!important; border: 10px solid rgb(43, 59, 75);" /></p>
+<p><img src="/portfolio/assets/img/self-study.jpg" alt="Laptop &amp; Book" class="center" style="width:750px!important;height:600px!important;max-width:800px!important;max-height:1000px!important; border: 5px solid rgb(43, 59, 75);" /></p>
 
 <p style="font-weight:bold;
     padding-left:350px;
@@ -172,7 +172,11 @@
     font-size: 30px;
     "> Self Study Projects</p>
 
-<p>The projects contained within this webpage are various projects that I have contstructed through continous personal education and professional development. They pertain to different topics that I deemed interesting and wanted to further learn and then apply the knowledge I learned into practical examples. <strong>Each project file will be in the “Appendix” section located at the bottom of the webpage.</strong></p>
+<p>The projects contained within this webpage relate to various topics that I have deemed interesting and wanted to enhance my knowledge and apply what I leanred in a practical capacity. These projects were created to further my perosnal education and profesional development and serve as a medium for showcasing my skills outside of structured learning.</p>
+
+<ul>
+  <li><strong>Each project file will be in the “Appendix” section located at the bottom of the webpage.</strong></li>
+</ul>
 
 <h3 id="discounted-cash-flow-model">Discounted Cash Flow Model</h3>
 
@@ -188,25 +192,26 @@
 <p><strong>Data</strong></p>
 
 <p>To provide a detailed Discounted Cash Flow Model for evaluating a company’s future value, you will need data from the income statement to calculate revenue growth rates and weighted average cost of capital, and data from the balance sheet for calculating net working capital and capital expenditures. 
-After finding the annual reports from Brookfield’s website, you need to copy it over to your sheet to be used in formulas in the model. 
-The earning report for Q4 2021 was not released yet. So Q1 - Q3 2021 data was used to help project 2021’s final values. I used a simple average growth rate to calculate 2021’s ending values. With these values provided, you can now move into constructing the model.</p>
+After finding the annual reports from Brookfield’s website, you need to copy it over to your sheet to be used in the model’s formulas.</p>
+
+<p>The earnings report for Q4 2021 was not released during the time I drated this model. Q1 - Q3 2021 data was used to help project 2021’s final values. I used a simple average growth rate to calculate 2021’s ending values. With these values provided, you can now move into constructing the model.</p>
 
 <p><strong>WACC</strong></p>
 
 <p>For the DCF Model, you must calculate the Weighted Average Cost of Capital for the terminal value calculation.
-CAPM or Capital Asset Pricing Model is the method used for finding the cost of equity for BEPC. The inputs needed are the Risk-free rate which is usually the 10-Year Treasury yield for most asset managers, the beta of the stock which can be found on different financial websites that monitor share price movements, and the expected market return which is the projected return of the overall stock market for that year.</p>
+CAPM or Capital Asset Pricing Model is the method used for finding the cost of equity for BEPC. The inputs needed are the Risk-free rate which is usually the 10-Year Treasury yield, the beta of the stock which can be found on different financial websites that monitor share price movements, and the expected market return which is the projected return of the overall stock market for that year.</p>
 
 <ul>
   <li>Cost of Equity Formula: = Expected Market Return + Beta * (Expected Market Return - Risk-free Rate)</li>
 </ul>
 
-<p>The next part of the WACC is the cost of debt. To calculate the cost of debt, you can look at the outstanding notes that the company has issued and use a simple average of all interest rates for those notes to find the cost of debt.</p>
+<p>The next part of the WACC is the cost of debt. To calculate the cost of debt, look at the outstanding notes that the company has issued and use a simple average of all interest rates for those notes to find the cost of debt.</p>
 
 <ul>
   <li>Cost of Debt Formula = Average of all interests rates of outstanding notes</li>
 </ul>
 
-<p>After you have the cost of equity and cost of debt, you use these values in the WACC formula to produce the weighted average cost of capital.</p>
+<p>After you have the cost of equity and cost of debt, use these values in the WACC formula to produce the Weighted Average Cost of Capital value.</p>
 
 <ul>
   <li>WACC Formula = ((% of Equity * Cost of Equity) + (% of Debt * Cost of Debt) * (1 - Tax Rate))</li>
@@ -215,19 +220,19 @@ CAPM or Capital Asset Pricing Model is the method used for finding the cost of e
 <p>The final step in this section is finding the terminal growth rate. To calculate “TGR”, you can use average inflation values from the last three years along with growth of GDP in the same time frame.</p>
 
 <ul>
-  <li>Terminal Growth Rate = average of the average inflation and GDP growth over specified time frame</li>
+  <li>Terminal Growth Rate = Average of (mean inflation rate &amp; mean GDP growth rate for the same period of time)</li>
 </ul>
 
-<p>In the model, there is a base, optimistic and consertavtive case for each of the main components of the WACC. This was constructed to allow myself to build a dynamic model that can be altered to test different assumptions about the overall market, specific company risks or the analyst’s own expectations.</p>
+<p>In the model, there is a base, optimistic and conservative case for each of the main components of the WACC. This was constructed to allow a dynamic model that can be altered to test different assumptions about the overall market, specific company risks or the analyst’s own expectations.</p>
 
 <p><strong>Projections</strong></p>
 
-<p>The DCF model is useful for determining the company’s stock price in the future by discounting cash flows back to present value. In order to perform the analysis, you must project the revenues of the company out by five or ten years. The model goes until 2030 which equates to nine years of forecasts.
+<p>The DCF model is useful for determining the company’s stock price in the future by discounting cash flows back to present value. In order to perform the analysis, project the revenues of the company out five or ten years. This particular model projects until 2030 which equates to nine years of forecasts. 
 Using the data from the annual reports, you can project the revenues and calculate “Earnings After Tax Expense” for that year. You are left with income that hasn’t accounted for depreciation or the changes in non-cash assets and liabilities.</p>
 
-<p>Depreciation &amp; Amortization is added back to the income because these are non-cash expenses accounted for on the income statement. No cash actually in the company’s treasury when accounting for that expense. Capital Expenditure (or CapEx) is usually a portion of the depreciation expense because this expense is usually attributed to a purchase of large machinery, equipment or buildings that are expensed through the useful life of that working asset. Net Working Capital is the current assets less cash minus the current liabilities less debt. This is to account for the net increase of assets that are not cash and they cannot be included as these assets are not producing any cash flows at the moment of accounting.</p>
+<p>“Depreciation &amp; Amortization” is added back to the income because these are non-cash expenses accounted for on the income statement. “Capital Expenditure” (or CapEx) is usually a portion of the depreciation expense because this expense is usually attributed to a purchase of large machinery, equipment or buildings that are expensed through the useful life of that working asset. “Net Working Capital” is the current assets less cash minus the current liabilities less debt. This is to account for the net increase of assets that are not cash and they cannot be included as these assets are not producing any cash flows at the moment of accounting.</p>
 
-<p>Once these values have been estimated, they can be included in the formula for unlevered cash flow. Each year then produces a free cash flow value in the model.</p>
+<p>Once these values have been estimated, they can be included in the formula for unlevered cash flow. Each year in the model now produces a free cash flow value.</p>
 
 <p><strong>Present Value</strong></p>
 
@@ -239,28 +244,28 @@ Using the data from the annual reports, you can project the revenues and calcula
 
 <p><strong>Share Price Calculation</strong></p>
 
-<p>To find the intrinsic value of the share price, you first sum all of the present value of each year’s cash flow. From this, you will find the enterprise value of the free cash flows. 
-Once you have this value, add back the cash, minus the debt, and you get the equity value of the cash flows. Divide the equity value by the shares outstanding and you will find the intrinsic value of the share price. This model allows for the analyst to evaluate a share’s price based on the company’s cash flows and determine if the current price is too expensive or is cheap compared to the intrinsic value of the security.</p>
+<p>To find the intrinsic value of the share price, first sum all of the present value of each year’s cash flow. From this, you will find the enterprise value of the free cash flows. 
+Once you have this value, add back the cash, minus the debt, and you get the equity value of the cash flows. Divide the equity value by the shares outstanding and you will find the intrinsic value of the share price. This model allows for the analyst to evaluate a share’s price based on the company’s cash flows and determine if the current price is too expensive or is cheap compared to the intrinsic value of the company.</p>
 
-<p>The model is completely dynamic with the base, optimistic and conservative case toggle at the top of the sheet to allow for different hypotheses to be tested. This model is not an “exact science” but it provides useful information when determining the true value of specific companies. These models can be developed further than what was showcased in this project or can even be simplified for faster and more efficient analysis. It depends on the needs of the analyst and the assumptions that will be included within the model.</p>
+<p>The model is completely dynamic with the base, optimistic and conservative case toggle table at the top of the sheet to allow for different hypotheses to be tested. This model is not an “exact science” but it provides useful information when determining the true value of specific companies. These models can be developed further than what was showcased in this project or can even be simplified for faster and more efficient analysis. It depends on the needs of the analyst and the assumptions that will be included within the model.</p>
 
 <h3 id="digital-asset-investment-thesis">Digital Asset Investment Thesis</h3>
 
-<p>This investment thesis outlines my own perosnal portoflio aollocaiton for the difgtal asset marekt and the key elements and risk that are associated with each of th eparitlcuar investments. I chose to create this document as a way to pratcie fomrualting artgunments for and against specifc digtal assets and show my thought process of how I look into my invesments.</p>
+<p>This investment thesis outlines my own perosnal portfolio allocation for the digital asset market and the key elements and risk that are associated with each of the particular investments. I chose to create this document as a way to practice fomrmulating arguements for and against specific digital assets and show my thought process of how I look into digital asset investments.</p>
 
 <p>Files included:</p>
 <ul>
   <li>Digital Asset Invesment Thesis PDF</li>
 </ul>
 
-<p>The document beigns with my peronsal belief statement of the indutry and where I see the marekt heading in terms of its maturity. This will lay the gorund work for all my furutre investments as it gives a filter into what types of digtal assets I could invest in and which assets are out of my perosnal risk tolerance.</p>
+<p>The document begins with my personal belief statement of the industry and where I see the market heading in terms of its maturity. This will lay the gorund work for all my future investments as it provides a filter into what types of digital assets I choose to invest in and which assets are out of my perosnal risk tolerance.</p>
 
-<p>Secondly, the document oultines the key elements used for each indidivual asset thesis.</p>
+<p>Secondly, the document oultines the key elements used for each individual asset thesis.</p>
 <ul>
   <li>Slogan: symbolic understanding of what the asset is</li>
-  <li>Value: the vlaue prospison so feahc of the assets</li>
+  <li>Value: the value propositios for each of the assets</li>
   <li>Purpose: brief summary of the asset and its track record in the market</li>
-  <li>Thesis: perosnal convicition of my allocation and potential risks associated with the asset</li>
+  <li>Thesis: personal convicition of my allocation and potential risks associated with the asset</li>
 </ul>
 
 <p>Third, the document states the entire marekt risks that could severly hinder the appreaction of the entire market.</p>
@@ -282,7 +287,7 @@ Once you have this value, add back the cash, minus the debt, and you get the equ
     "> Appendix: Self Study Files</p>
 
 <p style="text-align: center; font-size: 20px;"> DCF Excel File </p>
-<p><a href="/portfolio/1-SJSU-Projects//Excel/Simulation-Project.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);" /></a></p>
+<p><a href="/portfolio/1-Self-Study/DCF-Model/DCF-Model.xlsx"><img class="grow" src="/portfolio/1-Self-Study/DCF-Model/DCFimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);" /></a></p>
 
 <style>
  .grow {

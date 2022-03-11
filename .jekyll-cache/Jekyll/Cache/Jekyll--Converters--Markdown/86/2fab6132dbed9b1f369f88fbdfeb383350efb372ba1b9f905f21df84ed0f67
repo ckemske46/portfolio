@@ -1,0 +1,94 @@
+I"�<style>
+.page-image{
+    visibility: hidden;
+}
+.page-cover-image{
+    visibility: hidden;
+    height: 0px;
+}
+.header-page{
+    height: 0px;
+}
+</style>
+
+<style>
+.comment-area{
+    visibility: hidden;
+}
+.page-title{
+    visibility: hidden;
+}
+.page-date{
+    visibility: hidden;
+}
+</style>
+
+<style>
+.page-footer{
+    visibility: hidden;
+}
+</style>
+
+<p><img src="/portfolio/assets/img/other-profile-headshot.JPG" alt="SELFIE" class="center" style="width:50%;height:450px;object-fit:cover;" /></p>
+
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto; 
+</style>
+
+<p style="font-weight:bold;
+    padding-left:216px;
+    padding-right:200px;
+    font-size: 30px;
+    "> Introduction to My Personal Portfolio </p>
+
+<p>Hello, and welcome to my portfolio website! This portfolio consists of various self-study and university projects, along with summaries of different skills and abilities I have acquired from my time as a student and post-graduation.</p>
+
+<h3 id="how-each-page-works">How Each Page Works</h3>
+
+<p>Each post is filtered by catergories and all content within one post is related by subject matter and the skills developed through those projects.</p>
+
+<p>Starting from the top and going all the way through the post will allow you to capture the full extent of my thought process and understanding for each of these projects and show my understanding of the material.</p>
+
+<p>I intend these projects to showcase my professionalism, business acumen and conceptual understanding of analytics, finance and overall business skills and abilities.</p>
+
+<h3 id="my-journey-thus-far">My Journey Thus Far</h3>
+
+<p>I was born and raised in San Jose, CA and I proudly support the Bay Area in all of its capacities. My higher education journey began at De Anza Community College. I chose Business Administration right out of high school as I have always had an affinity for understanding the flow of money (accounting was my favorite class in college, go figure) and how you can use money to build an enterprise to promote good in this world.</p>
+
+<p>After transferring from De Anza to San Jose State University, I was bestowed the task of choosing my major for me to specialize in. A wise old English PhD told me - amply after I cleaned his garage for him for some extra cash during the summer months - that my time at university should be a time of overcoming challenges, high achievement, and something that can bring real value to the world.</p>
+
+<p>Business Analytics was the right fit for me as it requires close attention to detail, a robust logical mindset, and storng organziational skills, along with the ability to communicate effectively to others. I wanted to challenge myself and make sure I learned something meaningful at San Jose State University that would yeild benefits in my career and provide a plethora of future opportunities.</p>
+
+<p>During my time at De Anza Community College, I:</p>
+<ul>
+  <li>Recieved my A.S in Liberal Arts with a focus on Business Administration and Computer Information Systems</li>
+  <li>Awarded a Professional Certificate of Accounting for completing extra coursework</li>
+  <li>Played for De Anza’s collegiate Waterpolo Team for two years</li>
+  <li>Worked at the Northwest YMCA as the Aquatics Program Coordinator</li>
+</ul>
+
+<p>Then throughout San Jose State University, I:</p>
+<ul>
+  <li>Received 3.8 Overall GPA</li>
+  <li>Graduated Magna Cum Laude</li>
+  <li>Nominated and inducted in the National Society of Leadership and Success</li>
+  <li>Completed the Gary J. Sbona Honors Program</li>
+  <li>Awarded the Dean’s Scholar in Spring 2020, &amp; President’s Scholar in Fall 2020</li>
+  <li>Participated in a virtual study abroad program with the German University Technische Hochschule Inglostadt</li>
+  <li>Entered into SJSU’s startup accelerator contest</li>
+  <li>Completed a three-month long business development internship with Ambii Inc.</li>
+</ul>
+
+<p>Once I graduated from SJSU, I was not able to find a position that fit my current skill set. I chose to continue my education and learn additional skills to stay current and marketable for future employers.</p>
+
+<p>I completed Google’s Data Analytics Certification in 6 months while I worked with my father doing general residential contracting.</p>
+
+<p>Building this website also proved to be a great project to enhance my skills in HTML/CSS logic and syntax.</p>
+
+<p>I hope that you find this portfolio to be a satisfactory example of my current abilities and apitiude for learning and professional development.</p>
+:ET
