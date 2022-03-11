@@ -40,7 +40,7 @@ tags:
 </style> 
 
 
-<img src="/flexible-jekyll/assets/img/files.png" 
+<img src="/portfolio/assets/img/files.png" 
     alt="Misc. Files"
     class="center"
     style="width:500px;height:500pxpx;object-fit:cover;">
@@ -82,7 +82,7 @@ In my final semester at San Jose State University, I chose to complete a "Soft S
 
 This letter of recommendation was used in my application to the Gary J. Sbona Honors Program at San Jose State University. It was written by my Senior Capstone course professor, Professor Shirley. The letter was optional in the application process. However, I believed that putting in extra effort for the application and building a relationship with my professor would prove to be beneficial in the long run. These kinds words from Professor Shirley outlined my skills adequately and will follow me throughout my career. 
 
-<iframe src="/flexible-jekyll/1-Additional-Files/Letter-of-Recommendation.pdf" width="100%" height="500px"> Letter of Recommendation - Sbona Honors Program </iframe>
+<iframe src="/portfolio/1-Additional-Files/Letter-of-Recommendation.pdf" width="100%" height="500px"> Letter of Recommendation - Sbona Honors Program </iframe>
 
 <p style="font-weight:bold;
     padding-left:240px;
@@ -102,7 +102,7 @@ After completing my Senior Capstone course, along with the month long Virtual St
 
 My participation in this program was during my last semester at San Jose State University. It was free for all SJSU students and I was currently engaged in the Sbona Honors Program yet I wanted to continue to divserify my experiences and grow my professional network and business skills. The program consisted of various coursework and self-reflections that had to be submitted throughout the semester. The program focused on self leadership versus team leadership which I practiced in the NSLS program I completed a semester prior. 
 
-<img src="/flexible-jekyll/1-Additional-Files/leadership.jpeg" alt="LCCP Certificate" style="width:100%;height:100%;">
+<img src="/portfolio/1-Additional-Files/leadership.jpeg" alt="LCCP Certificate" style="width:100%;height:100%;">
 
 <p style="font-weight:bold;
     padding-left:325px;
@@ -112,7 +112,7 @@ My participation in this program was during my last semester at San Jose State U
 
 I was awarded the President's Scholar Distiction for two or more consecutive semesters with a 4.0 GPA. I recieved a 4.0 GPA each semester from Spring 2020 to Spring 2021. 
 
-<img src="/flexible-jekyll/1-Additional-Files/ps.jpg" alt="President's Scholar Slide" style="width:1000px;height:550px;"> 
+<img src="/portfolio/1-Additional-Files/ps.jpg" alt="President's Scholar Slide" style="width:1000px;height:550px;"> 
 
 <p style="font-weight:bold;
     padding-left:220px;
@@ -122,4 +122,4 @@ I was awarded the President's Scholar Distiction for two or more consecutive sem
 
 The below image is my Program Coordinator Profile from my employement with the Northwest YMCA in Cupertino, California. This role was my frist professional role in which I was tasked with overseeing a large swim lesson program and managing the day-to-day operations of those lessons. I became part of the Northwest Aquatics leadership team when I was 19 and occupied the role for 1 year and several months until my first semester at San Jose State Univeristy began. Thanks to my direct supervisor, I was able to grow my professional skills quickly and learned how to manage others at a young age. I owe a lot of my work ethic development and priority-driven mindset to my time in this role.  
 
-<img src="/flexible-jekyll/1-Additional-Files/coordinator.jpeg" alt="Program Coordinator Profile" style="width:100%;height:100%;">
+<img src="/portfolio/1-Additional-Files/coordinator.jpeg" alt="Program Coordinator Profile" style="width:100%;height:100%;">

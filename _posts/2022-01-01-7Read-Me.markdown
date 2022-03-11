@@ -39,7 +39,7 @@ tags:
 }
 </style> 
 
-<img src="/flexible-jekyll/assets/img/other-profile-headshot.JPG" 
+<img src="/portfolio/assets/img/other-profile-headshot.JPG" 
     alt="SELFIE"
     class="center"
     style="width:50%;height:450px;object-fit:cover;">

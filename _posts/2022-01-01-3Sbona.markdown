@@ -39,7 +39,7 @@ tags:
 }
 </style> 
 
-<img src="/flexible-jekyll/assets/img/new-sbona.png"
+<img src="/portfolio/assets/img/new-sbona.png"
 alt="Sbona Logo"
 class="center" 
 style="width:500px!important;height:500px!important;max-width:800px!important;max-height:800px!important;">
@@ -103,7 +103,7 @@ The final phase of the project was to draft the final report for our faculty adv
     "> Appendix: Project Files</p>
 
 <p style="text-align: center; font-size: 20px;"> Final Abridged Report </p>
-<iframe src="/flexible-jekyll/1-SJSU-Honors/Abridged-Report.pdf" width="100%" height="500px"></iframe>
+<iframe src="/portfolio/1-SJSU-Honors/Abridged-Report.pdf" width="100%" height="500px"></iframe>
 
 <p style="text-align: center; font-size: 20px;"> Final Presentation </p>
-<iframe src="/flexible-jekyll/1-SJSU-Honors/RCSJ-Final-Presentation.pdf" width="100%" height="650px"></iframe>
+<iframe src="/portfolio/1-SJSU-Honors/RCSJ-Final-Presentation.pdf" width="100%" height="650px"></iframe>

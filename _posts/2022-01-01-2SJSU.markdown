@@ -39,7 +39,7 @@ tags:
 }
 </style> 
 
-<img src="/flexible-jekyll/assets/img/SJSU.png"  
+<img src="/portfolio/assets/img/SJSU.png"  
 alt="SJSU Logo" 
 class="center"
 style="width:50%;height:500px;object-fit:cover;">
@@ -140,13 +140,13 @@ The conclusion of the course was after the teams presented their mock startups t
     "> Appendix: Excel Projects </p>
 
 <p style="text-align: center; font-size: 20px;">Household Budget Excel File (#1) </p>
-<a href="/flexible-jekyll/1-SJSU-Projects//Excel/Household-Budget.xlsx"><img class="grow" src="/flexible-jekyll/1-SJSU-Projects/Excel/Householdimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+<a href="/portfolio/1-SJSU-Projects//Excel/Household-Budget.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Householdimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <p style="text-align: center; font-size: 20px;">Portfolio Management Excel File (#2) </p>
-<a href="/flexible-jekyll/1-SJSU-Projects//Excel/Portfolio-Management.xlsx"><img class="grow" src="/flexible-jekyll/1-SJSU-Projects/Excel/Portfolioimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+<a href="/portfolio/1-SJSU-Projects//Excel/Portfolio-Management.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Portfolioimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <p style="text-align: center; font-size: 20px;">Simulation Theory Excel File (#3) </p>
-<a href="/flexible-jekyll/1-SJSU-Projects//Excel/Simulation-Project.xlsx"><img class="grow" src="/flexible-jekyll/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+<a href="/portfolio/1-SJSU-Projects//Excel/Simulation-Project.xlsx"><img class="grow" src="/portfolio/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <p style="font-weight:bold;
     padding-left:145px;
@@ -155,16 +155,16 @@ The conclusion of the course was after the teams presented their mock startups t
     "> Appendix: German Study Abroad Program Files </p>
 
 <p style="text-align: center; font-size: 20px;">BUS 189 Final Presentation (#4) </p>
-<iframe src="/flexible-jekyll/1-SJSU-Projects/THI-Summer-School/Bus-189-Final.pdf" width="100%" height="500px"></iframe>
+<iframe src="/portfolio/1-SJSU-Projects/THI-Summer-School/Bus-189-Final.pdf" width="100%" height="500px"></iframe>
 
 <p style="text-align: center; font-size: 20px;">BUS 189 Midterm Presentation (#5)</p>
-<iframe src="/flexible-jekyll/1-SJSU-Projects/THI-Summer-School/Bus-189-Midterm.pdf" width="100%" height="500px"></iframe>
+<iframe src="/portfolio/1-SJSU-Projects/THI-Summer-School/Bus-189-Midterm.pdf" width="100%" height="500px"></iframe>
 
 <p style="text-align: center; font-size: 20px;">THI Summer School Final Project (#6) </p>
-<iframe src="/flexible-jekyll/1-SJSU-Projects/THI-Summer-School/Conecta-Sertao.pdf" width="100%" height="500px"></iframe>
+<iframe src="/portfolio/1-SJSU-Projects/THI-Summer-School/Conecta-Sertao.pdf" width="100%" height="500px"></iframe>
 
 <p style="text-align: center; font-size: 20px;">THI Summer School Completion Certificate (#7) </p>
-<iframe src="/flexible-jekyll/1-SJSU-Projects/THI-Summer-School/THI-Cert.pdf" width="100%" height="500px"></iframe>
+<iframe src="/portfolio/1-SJSU-Projects/THI-Summer-School/THI-Cert.pdf" width="100%" height="500px"></iframe>
 
 <style>
  .grow {
