@@ -1,0 +1,171 @@
+I"�*<style>
+.page-image{
+    visibility: hidden;
+}
+.page-cover-image{
+    visibility: hidden;
+    height: 0px;
+}
+.header-page{
+    height: 0px;
+}
+</style>
+
+<style>
+.comment-area{
+    visibility: hidden;
+}
+.page-title{
+    visibility: hidden;
+}
+.page-date{
+    visibility: hidden;
+}
+</style>
+
+<style>
+.page-footer{
+    visibility: hidden;
+}
+</style>
+
+<style>
+  .center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 100%; 
+</style>
+
+<p><img src="/flexible-jekyll/assets/img/self-study.jpg" alt="Laptop &amp; Book" class="center" style="width:750px!important;height:600px!important;max-width:800px!important;max-height:1000px!important; border: 10px solid rgb(43, 59, 75);" /></p>
+
+<p style="font-weight:bold;
+    padding-left:350px;
+    padding-right:125px;
+    font-size: 30px;
+    "> Self Study Projects</p>
+
+<p>The projects contained within this webpage are various projects that I have contstructed through continous personal education and professional development. They pertain to different topics that I deemed interesting and wanted to further learn and then apply the knowledge I learned into practical examples. <strong>Each project file will be in the “Appendix” section located at the bottom of the webpage.</strong></p>
+
+<h3 id="discounted-cash-flow-model">Discounted Cash Flow Model</h3>
+
+<p>This project was conducted voluntarily to practice my company valuation and Microsoft Excel skills. My goal for this project was to create a full functioning dynamic Discounted Cash Flow Model completely from scratch and to showcase my financial and accounting literacy to potential employers.</p>
+
+<p>Files included:</p>
+<ul>
+  <li>DCF Model Excel File</li>
+</ul>
+
+<p>Brookfield Energy Partners Corp. was selected as the company to be evaluated. This company sits in my personal portfolio and is an excellent energy holdings company with sufficient historical data for analysis. I used the annual reports from 2018 - 2020 to provide the financial data from their income statements and balance sheet. I will provide a summary of each step of the model and my thought process during these specific steps.</p>
+
+<p><strong>Data</strong></p>
+
+<p>To provide a detailed Discounted Cash Flow Model for evaluating a company’s future value, you will need data from the income statement to calculate revenue growth rates and weighted average cost of capital, and data from the balance sheet for calculating net working capital and capital expenditures. 
+After finding the annual reports from Brookfield’s website, you need to copy it over to your sheet to be used in formulas in the model. 
+The earning report for Q4 2021 was not released yet. So Q1 - Q3 2021 data was used to help project 2021’s final values. I used a simple average growth rate to calculate 2021’s ending values. With these values provided, you can now move into constructing the model.</p>
+
+<p><strong>WACC</strong></p>
+
+<p>For the DCF Model, you must calculate the Weighted Average Cost of Capital for the terminal value calculation.
+CAPM or Capital Asset Pricing Model is the method used for finding the cost of equity for BEPC. The inputs needed are the Risk-free rate which is usually the 10-Year Treasury yield for most asset managers, the beta of the stock which can be found on different financial websites that monitor share price movements, and the expected market return which is the projected return of the overall stock market for that year.</p>
+
+<ul>
+  <li>Cost of Equity Formula: = Expected Market Return + Beta * (Expected Market Return - Risk-free Rate)</li>
+</ul>
+
+<p>The next part of the WACC is the cost of debt. To calculate the cost of debt, you can look at the outstanding notes that the company has issued and use a simple average of all interest rates for those notes to find the cost of debt.</p>
+
+<ul>
+  <li>Cost of Debt Formula = Average of all interests rates of outstanding notes</li>
+</ul>
+
+<p>After you have the cost of equity and cost of debt, you use these values in the WACC formula to produce the weighted average cost of capital.</p>
+
+<ul>
+  <li>WACC Formula = ((% of Equity * Cost of Equity) + (% of Debt * Cost of Debt) * (1 - Tax Rate))</li>
+</ul>
+
+<p>The final step in this section is finding the terminal growth rate. To calculate “TGR”, you can use average inflation values from the last three years along with growth of GDP in the same time frame.</p>
+
+<ul>
+  <li>Terminal Growth Rate = average of the average inflation and GDP growth over specified time frame</li>
+</ul>
+
+<p>In the model, there is a base, optimistic and consertavtive case for each of the main components of the WACC. This was constructed to allow myself to build a dynamic model that can be altered to test different assumptions about the overall market, specific company risks or the analyst’s own expectations.</p>
+
+<p><strong>Projections</strong></p>
+
+<p>The DCF model is useful for determining the company’s stock price in the future by discounting cash flows back to present value. In order to perform the analysis, you must project the revenues of the company out by five or ten years. The model goes until 2030 which equates to nine years of forecasts.
+Using the data from the annual reports, you can project the revenues and calculate “Earnings After Tax Expense” for that year. You are left with income that hasn’t accounted for depreciation or the changes in non-cash assets and liabilities.</p>
+
+<p>Depreciation &amp; Amortization is added back to the income because these are non-cash expenses accounted for on the income statement. No cash actually in the company’s treasury when accounting for that expense. Capital Expenditure (or CapEx) is usually a portion of the depreciation expense because this expense is usually attributed to a purchase of large machinery, equipment or buildings that are expensed through the useful life of that working asset. Net Working Capital is the current assets less cash minus the current liabilities less debt. This is to account for the net increase of assets that are not cash and they cannot be included as these assets are not producing any cash flows at the moment of accounting.</p>
+
+<p>Once these values have been estimated, they can be included in the formula for unlevered cash flow. Each year then produces a free cash flow value in the model.</p>
+
+<p><strong>Present Value</strong></p>
+
+<p>The model now has nine cash flow values all the way until 2030. However, these values need to be discounted back to the present value by using the WACC value. Using the cash flow value and then multiplying it by one plus the WACC to the power of the current year, you find the present value of that cash flow.</p>
+
+<p>To calculate the present value of the enterprise, you must multiply the projected cash flow in 2030 by one times the WACC value then divided by the WACC minus the terminal growth rate to find the terminal value of the enterprise.</p>
+
+<p>After this calculation, you will use the terminal value multiplied by one times the WACC value of the ninth year of the projection. This calculation will provide the analyst with the discounted value of the entire enterprise.</p>
+
+<p><strong>Share Price Calculation</strong></p>
+
+<p>To find the intrinsic value of the share price, you first sum all of the present value of each year’s cash flow. From this, you will find the enterprise value of the free cash flows. 
+Once you have this value, add back the cash, minus the debt, and you get the equity value of the cash flows. Divide the equity value by the shares outstanding and you will find the intrinsic value of the share price. This model allows for the analyst to evaluate a share’s price based on the company’s cash flows and determine if the current price is too expensive or is cheap compared to the intrinsic value of the security.</p>
+
+<p>The model is completely dynamic with the base, optimistic and conservative case toggle at the top of the sheet to allow for different hypotheses to be tested. This model is not an “exact science” but it provides useful information when determining the true value of specific companies. These models can be developed further than what was showcased in this project or can even be simplified for faster and more efficient analysis. It depends on the needs of the analyst and the assumptions that will be included within the model.</p>
+
+<h3 id="digital-asset-investment-thesis">Digital Asset Investment Thesis</h3>
+
+<p>This investment thesis outlines my own perosnal portoflio aollocaiton for the difgtal asset marekt and the key elements and risk that are associated with each of th eparitlcuar investments. I chose to create this document as a way to pratcie fomrualting artgunments for and against specifc digtal assets and show my thought process of how I look into my invesments.</p>
+
+<p>Files included:</p>
+<ul>
+  <li>Digital Asset Invesment Thesis PDF</li>
+</ul>
+
+<p>The document beigns with my peronsal belief statement of the indutry and where I see the marekt heading in terms of its maturity. This will lay the gorund work for all my furutre investments as it gives a filter into what types of digtal assets I could invest in and which assets are out of my perosnal risk tolerance.</p>
+
+<p>Secondly, the document oultines the key elements used for each indidivual asset thesis.</p>
+<ul>
+  <li>Slogan: symbolic understanding of what the asset is</li>
+  <li>Value: the vlaue prospison so feahc of the assets</li>
+  <li>Purpose: brief summary of the asset and its track record in the market</li>
+  <li>Thesis: perosnal convicition of my allocation and potential risks associated with the asset</li>
+</ul>
+
+<p>Third, the document states the entire marekt risks that could severly hinder the appreaction of the entire market.</p>
+<ul>
+  <li>Dencentralization</li>
+  <li>Regulation</li>
+  <li>Token Utility</li>
+</ul>
+
+<p>Finally, the document provides all of my peronsal allocations, catergorized by the time-horizon of the investment with all the key elements outined for supporting evidence of my conviciton in the asset.</p>
+<ul>
+  <li>These thesis statements should not be taken as investment advice, but merely as educational content on the assets I have peronally invested in with the rationale behind each of the investments.</li>
+</ul>
+
+<p style="font-weight:bold;
+    padding-left:375px;
+    padding-right:150px;
+    font-size: 30px;
+    "> Appendix Files</p>
+
+<p style="text-align: center; font-size: 20px;"> DCF Excel File </p>
+<p><a href="/flexible-jekyll/1-SJSU-Projects//Excel/Simulation-Project.xlsx"><img class="grow" src="/flexible-jekyll/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);" /></a></p>
+
+<style>
+ .grow {
+   transition: all .2s ease-in-out;
+ }
+ 
+ .grow:hover {
+   transform: scale(1.02);
+
+</style>
+
+:ET

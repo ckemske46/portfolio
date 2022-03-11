@@ -61,9 +61,6 @@ style="width:750px!important;height:600px!important;max-width:800px!important;ma
 
 The projects contained within this webpage are various projects that I have contstructed through continous personal education and professional development. They pertain to different topics that I deemed interesting and wanted to further learn and then apply the knowledge I learned into practical examples. __Each project file will be in the "Appendix" section located at the bottom of the webpage.__ 
 
-Files Included
-* Discounted Cash Flow - Brookfield Energy Partners Inc. 
-
 ### Discounted Cash Flow Model
 
 This project was conducted voluntarily to practice my company valuation and Microsoft Excel skills. My goal for this project was to create a full functioning dynamic Discounted Cash Flow Model completely from scratch and to showcase my financial and accounting literacy to potential employers. 
@@ -124,11 +121,34 @@ Once you have this value, add back the cash, minus the debt, and you get the equ
 
 The model is completely dynamic with the base, optimistic and conservative case toggle at the top of the sheet to allow for different hypotheses to be tested. This model is not an “exact science” but it provides useful information when determining the true value of specific companies. These models can be developed further than what was showcased in this project or can even be simplified for faster and more efficient analysis. It depends on the needs of the analyst and the assumptions that will be included within the model. 
 
+### Digital Asset Investment Thesis
+
+This investment thesis outlines my own perosnal portoflio aollocaiton for the difgtal asset marekt and the key elements and risk that are associated with each of th eparitlcuar investments. I chose to create this document as a way to pratcie fomrualting artgunments for and against specifc digtal assets and show my thought process of how I look into my invesments. 
+
+Files included:
+* Digital Asset Invesment Thesis PDF 
+
+The document beigns with my peronsal belief statement of the indutry and where I see the marekt heading in terms of its maturity. This will lay the gorund work for all my furutre investments as it gives a filter into what types of digtal assets I could invest in and which assets are out of my perosnal risk tolerance. 
+
+Secondly, the document oultines the key elements used for each indidivual asset thesis. 
+* Slogan: symbolic understanding of what the asset is 
+* Value: the vlaue prospison so feahc of the assets 
+* Purpose: brief summary of the asset and its track record in the market
+* Thesis: perosnal convicition of my allocation and potential risks associated with the asset 
+
+Third, the document states the entire marekt risks that could severly hinder the appreaction of the entire market.
+* Dencentralization 
+* Regulation
+* Token Utility
+
+Finally, the document provides all of my peronsal allocations, catergorized by the time-horizon of the investment with all the key elements outined for supporting evidence of my conviciton in the asset.
+* These thesis statements should not be taken as investment advice, but merely as educational content on the assets I have peronally invested in with the rationale behind each of the investments.   
+
 <p style="font-weight:bold;
-    padding-left:250px;
+    padding-left:275px;
     padding-right:150px;
     font-size: 30px;
-    "> Appendix: Discounted Cash Flow  </p>
+    "> Appendix: Self Study Files</p>
 
 <p style="text-align: center; font-size: 20px;"> DCF Excel File </p>
 <a href="/flexible-jekyll/1-SJSU-Projects//Excel/Simulation-Project.xlsx"><img class="grow" src="/flexible-jekyll/1-SJSU-Projects/Excel/Simulationimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
@@ -140,4 +160,8 @@ The model is completely dynamic with the base, optimistic and conservative case 
  
  .grow:hover {
    transform: scale(1.02);
+ }
+ </style>
 
+ <p style="text-align: center; font-size: 20px;"> Digital Asset Investment Thesis </p>
+<iframe src="/flexible-jekyll/1-Self-Study/Digital-Assets-Investment-Thesis.pdf" width="100%" height="500px"></iframe>
