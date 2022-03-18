@@ -124,37 +124,88 @@ Once you have this value, add back the cash, minus the debt, and you get the equ
 
 The model is completely dynamic with the base, optimistic and conservative case toggle table at the top of the sheet to allow for different hypotheses to be tested. This model is not an “exact science” but it provides useful information when determining the true value of specific companies. These models can be developed further than what was showcased in this project or can even be simplified for faster and more efficient analysis. It depends on the needs of the analyst and the assumptions that will be included within the model. 
 
+### Leveraged Buyout Model
+
+The Leveraged Buyout Model is an important model to construct for Private Equity firms as this allows the firm to project the return on investment of the private company they intend to acquire. Private Equity is a field that I am highly interested in learning about and thus learning how to develop a LBO Model is essential for being an Private Equity analyst. This model also provides further practice in financial and valuation concepts. 
+
+Files included"
+* LBO Model Excel File
+
+__Assumptions__
+
+The "Assumptions" tab outlines the prompt for the model. The key elements to account for range from the "Enterprise Value" to the various financial metrics that will be consistent throughout the projections. All the assumptions stated allow the analyst to build an accurate and in-depth LBO Model and even allow for dynamic toggling to test different inputs and calculate various outputs.  
+
+__Sourcing__
+
+The "Sourcing" tab outlines all assumptions in their numerical value so the analyst can use them in the model's formulas. In Private Equity, firms tend to issue different debt instruments to finance the acquisition. In this model, the debt being used is a "Revolving Credit Facility, Term Loan, and Senior Note." There is also "Financing and Transaction fees" associated with the acquisition deal, being 3% and 2% of "Enterprise Value," respectively. This gives you the full "Equity Value" that must be accounted for when purchasing the private company.
+
+Key Elements 
+* __Revolving Credit Facility:__ A financial instrument that allows the borrower to repay or borrow from the credit line at different points in its useful life. This provides the borrower greater flexibility in using the debt to finance their operations or acquisitions.
+* __Term Loan:__ A loan that is given in lump sum to the borrower under specific terms from the lender. 
+* __Senior Note:__ A bond that is issued from the company looking to raise capital and is repayed in full at the end of the useful life of the bond. These bonds come with a coupon that is paid out to the lender, usually at the end of each year. 
+* __Remaining Equity:__ The difference between the "Equity Value" and the sourced debt is paid for in equity from the purchasing company.
+
+__Debt Schedule__
+
+The "Debt Schedule" tab is the most intergral part of this model as it outlines the projections for paying off all the oustanding debt used in financing the acquistion. This allows the analyst to determine when the firm can have an optimal exit after all debt is paid off. 
+
+Key Elements
+* __LIBOR:__ The "London Interbank Offered Rate" is used as a benchmark for interest rates in outstanding debt in the global capital markets. The model uses a simple 1% assumption across all years to make calculations manageable. 
+* __Spread:__ The spread on the outstanding debt instruments is calculated with U.S Treasury bond yields and corporate bonds with the same maturity length. It can determine the risk associated on that specific corporate bond. U.S. Treasury bonds are seen as "risk-free" and the difference on the two bonds' yields can indicate safe or risky investment. The spread is 3% for the all debt instruments. 
+* __Mandatory Amortization:__ This value references the mandatory repayment of the loan's principal that must be paid out on the negotiated date in the year. Amortization is 10% for all years in the projection. 
+
+After calculating the repayment schedule for all the debt, the model can show you the total interest payment which can help the firm determine future free cash flows of the acquisition. 
+
+__Projections__
+
+The "Projections" tab outlines the logical progression of calculating the value of the acquisition after each year of holding. It requires a projected "Income Statement" to find the "Net Income" at the end of each year. This allows the firm to determine how much of the profit will be going to pay down the outstanding debt. The model also uses a "Cash Flow Statement" to determine the acquisition's free cash flow. The final line item on the "Cash Flow Statement" determines the pre-revolver cash flow which is used in the repayment of the "Revolving Credit Facility." 
+
+The final section of this portion of the model outlines the "Return Analysis." This is where the analyst can determine the value of the investment when the firm is perfomring their exit. Using EBITDA and the "Enterprise Value Multiple" of 5, the gross value of the investment at the end of the projected year is calculated. After the outstanding debt and the initial equity used to finance the acquisition are accounted for, you can determine the net value of the investment, which gives you the "Equity Value @ Exit." 
+
+At this point, the firm will be interested in the "MOIC and IRR" metrics for the investment to gauge the overall success of the acquisition.
+* __Multiple on Invested Capital (MOIC):__ Equity Value @ Exit divided by the initial equity shows the monetary value generated from the equity used in financing. Over the projected years, this will increase as the debt is paid down.
+* __Internal Rate of Return (IRR):__ (Equity Value @ Exit / Initial Equity) raised to the power of (1 / Exit Year) minus 1. This metric determines the percentage of increased value from the initial equity investment over the projected timeframe.
+
+To add more depth to this analysis, I drafted toggles that allow for dynamic projections and created a simple sensitivity table that shows the MOIC and IRR values from the different cases: Conservative, Base, and Optimistic. The dynamic toggles change the assumptions of the revenue growth rate and EBITDA margins as these factors play an important role in forecasting the eventual equity value at the exit year. The sensitivty table shows all possible combinations of the assumptions and outlined if the assumption leads to more or less value in MOIC and IRR. 
+
+__Challenge__
+
+The model ran into an error in the projections for the "Cash Flow Statement." The issue is the line item "Interest Expense" cannot be calculated unless you have the debt obligations already accounted for. Since the model is a forecast, there is no concrete interest payment value to be used. To calculate the debt schedule, you need "Free Cash Flow." To get "Free Cash Flow" you need "Interest Payments" to be used in the "Income Statement." My assumption for the correction would be to calculate the first year interest payment, then use a decreasing growth rate to forecast the remaining interest payments. After this, you could project the free cash flow accurately, which leads to the actual interest payment on the debt schedule for all outstanding debt.  
+
 ### Digital Asset Investment Thesis
 
-This investment thesis outlines my own perosnal portfolio allocation for the digital asset market and the key elements and risk that are associated with each of the particular investments. I chose to create this document as a way to practice fomrmulating arguements for and against specific digital assets and show my thought process of how I look into digital asset investments.
+This investment thesis outlines my own personal portfolio allocation for the digital asset market and the key elements and risks that are associated with each of the particular investments. I chose to create this document as a way to practice formulating arguments for and against specific digital assets and show my thought process of how I look into digital asset investments.
 
 Files included:
 * Digital Asset Invesment Thesis PDF 
 
-The document begins with my personal belief statement of the industry and where I see the market heading in terms of its maturity. This will lay the gorund work for all my future investments as it provides a filter into what types of digital assets I choose to invest in and which assets are out of my perosnal risk tolerance. 
+The document begins with my personal belief statement of the industry and where I see the market heading in terms of its maturity. This will lay the ground work for all my future investments as it provides a filter into what types of digital assets I choose to invest in and which assets are out of my perosnal risk tolerance. 
 
 Secondly, the document oultines the key elements used for each individual asset thesis. 
 * Slogan: symbolic understanding of what the asset is 
-* Value: the value propositios for each of the assets 
-* Purpose: brief summary of the asset and its track record in the market
-* Thesis: personal convicition of my allocation and potential risks associated with the asset 
+* Value: the value propositions for each of the assets 
+* Purpose: brief summary of the asset and track record in the market
+* Thesis: personal conviction of my allocation and potential risks associated with the asset 
 
-Third, the document states the entire marekt risks that could severly hinder the appreaction of the entire market.
-* Dencentralization 
+Third, the document states the risks that could severly hinder the appreciation of the entire market.
+* Decentralization 
 * Regulation
 * Token Utility
 
-Finally, the document provides all of my peronsal allocations, catergorized by the time-horizon of the investment with all the key elements outined for supporting evidence of my conviciton in the asset.
-* These thesis statements should not be taken as investment advice, but merely as educational content on the assets I have peronally invested in with the rationale behind each of the investments.   
+Finally, the document provides all of my personal allocations, catergorized by the time-horizon of the investment. Each investment thesis covers my conviction in the asset and the risks I have determined to be strongly associated with that asset. 
+* These thesis statements should not be taken as investment advice, but merely as educational content on the assets I have personally invested in with the rationale behind each of the investments.   
 
 <p style="font-weight:bold;
-    padding-left:275px;
+    padding-left:290px;
     padding-right:150px;
     font-size: 30px;
     "> Appendix: Self Study Files</p>
 
-<p style="text-align: center; font-size: 20px;"> DCF Excel File </p>
+<p style="text-align: center; font-size: 20px;"> DCF Model Excel File </p>
 <a href="/portfolio/1-Self-Study/DCF-Model/DCF-Model.xlsx"><img class="grow" src="/portfolio/1-Self-Study/DCF-Model/DCFimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
+
+<p style="text-align: center; font-size: 20px;"> LBO Model Excel File</p>
+<a href="/portfolio/1-Self-Study/LBO-Model/LBO-Model.xlsx"><img class="grow" src="/portfolio/1-Self-Study/LBO-Model/LBOimage.png" style="display: block; margin-left: auto; margin-right: auto; margin-top: -14px; width: 693px; height: 340px; border: 5px solid rgb(43, 59, 75);"></a> 
 
 <style>
  .grow {
