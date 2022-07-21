@@ -172,29 +172,6 @@ __Challenge__
 
 The model ran into an error in the projections for the "Cash Flow Statement." The issue is the line item "Interest Expense" cannot be calculated unless you have the debt obligations already accounted for. Since the model is a forecast, there is no concrete interest payment value to be used. To calculate the debt schedule, you need "Free Cash Flow." To get "Free Cash Flow" you need "Interest Payments" to be used in the "Income Statement." My assumption for the correction would be to calculate the first year interest payment, then use a decreasing growth rate to forecast the remaining interest payments. After this, you could project the free cash flow accurately, which leads to the actual interest payment on the debt schedule for all outstanding debt.  
 
-### Digital Asset Investment Thesis
-
-This investment thesis outlines my own personal portfolio allocation for the digital asset market and the key elements and risks that are associated with each of the particular investments. I chose to create this document as a way to practice formulating arguments for and against specific digital assets and show my thought process of how I look into digital asset investments.
-
-Files included:
-* Digital Asset Invesment Thesis PDF 
-
-The document begins with my personal belief statement of the industry and where I see the market heading in terms of its maturity. This will lay the ground work for all my future investments as it provides a filter into what types of digital assets I choose to invest in and which assets are out of my perosnal risk tolerance. 
-
-Secondly, the document oultines the key elements used for each individual asset thesis. 
-* Slogan: symbolic understanding of what the asset is 
-* Value: the value propositions for each of the assets 
-* Purpose: brief summary of the asset and track record in the market
-* Thesis: personal conviction of my allocation and potential risks associated with the asset 
-
-Third, the document states the risks that could severly hinder the appreciation of the entire market.
-* Decentralization 
-* Regulation
-* Token Utility
-
-Finally, the document provides all of my personal allocations, catergorized by the time-horizon of the investment. Each investment thesis covers my conviction in the asset and the risks I have determined to be strongly associated with that asset. 
-* These thesis statements should not be taken as investment advice, but merely as educational content on the assets I have personally invested in with the rationale behind each of the investments.   
-
 <p style="font-weight:bold;
     padding-left:290px;
     padding-right:150px;
@@ -216,6 +193,3 @@ Finally, the document provides all of my personal allocations, catergorized by t
    transform: scale(1.02);
  }
  </style>
-
- <p style="text-align: center; font-size: 20px;"> Digital Asset Investment Thesis </p>
-<iframe src="/portfolio/1-Self-Study/Digital-Assets-Investment-Thesis-4-15-22.pdf" width="100%" height="500px"></iframe>
