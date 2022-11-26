@@ -173,3 +173,62 @@ Bitcoin is one of the most influential innovations of our time. Payment networks
    transform: scale(1.02);
  }
  </style>
+
+
+<p style="text-align: center; font-size: 20px;"> Blog Post #3 - Cardano's Staking Industry</p>
+<p style="text-align: center; font-size: 18px;"> September 2, 2022 </p>
+<img src="/portfolio/1-Blog-Posts/Cardano-staking.jpeg"
+class="center"
+style="width:750px!important;height:500px!important;max-width:800px!important;max-height:1000px!important; border: 5px solid rgb(43, 59, 75);"> 
+
+### Introduction
+
+Blockchain technology and its application in cryptocurrencies and digital assets have led to the emergence of truly digital business and economic applications. Decentralized finance allows market participants to use their assets to lend and borrow other various assets and earn yield. Blockchain can create digital identification that can allow users to have a true economic identity in the global markets. It also has led to new industries in the propagation of blocks. A block is a batch of transactions that occur on the blockchain and once verified, it becomes final in the blockchain and cannot be revoked. One of the most important innovations to come to this space is the ability for market participants to earn passive income, not from the yield on their assets, but from "staking" their assets to a blockchain.
+This article will focus on "proof-of-stake" in the Cardano ecosystem and the blossoming industry it has created. To understand this industry and the opportunities within, we must discuss what staking is and how it differs in its operation from the first and most prominent consensus mechanism, "proof-of-work."
+
+### Consensus Mechanisms
+
+"Proof-of-work" (or POW) was pioneered in the bitcoin blockchain as the method for aligning economic incentives for the network and helping provide security and verification of bitcoin transactions. POW uses computers connected to the network to provide computational power, also known as hash rate, to process transactions by solving complicated mathematical equations to verify a block. These computers compete with each other to solve these problems in order to be the first to find the answer. When they solve the problem, they are given the privilege to propagate the block onto the network and receive a block subsidy, which is currently, 6.25 bitcoins.
+
+In a work of genius, bitcoin’s network algorithm will increase the computational power needed to solve the equations when more hash rate becomes available on the network, which has been called the "difficulty adjustment." This is to prevent one or a group of computers from controlling the majority of the network. Bitcoin has created a new industry for providing computing power and electricity use for the verification and security of a decentralized global monetary system. However, as the demand for bitcoin has risen, so have the costs of becoming a bitcoin “miner” or a computer providing hash rate. Environmental concerns have also risen due to the energy consumption of bitcoin mining. Bitcoin currently uses 110 terawatt-hours per year - equating to 0.55% of global electricity production.
+
+As per the large start-up costs and the energy consumption from the bitcoin network and other proof-of-work cryptocurrencies, a new consensus mechanism has started to grow into prominence in newer blockchains. "Proof-of-stake" (or POS) turns miners into validators where these validators operate servers that act as the blockchains’ nodes that process and verify blocks. These validators lock up market participants' stake, or the amount of the network's native asset, to incentivize the long-term holding and growth of the asset. This method doesn’t work like POW as more stake does not articulate directly into more computational power in the network. Rather, staking aligns economic incentives for more validators to join as holding more native assets can bring greater returns for investment, therefore bringing more servers to the network, adding more decentralization and security.
+
+These mechanisms of consensus work differently but come to the same conclusion. The network reaches an agreement on transactions and a new block is propagated. POW uses more energy but makes it extremely costly to act against the network as the costs of mining are high while POS uses less energy but allows more market participants to engage with the longevity of the network.
+
+### What is Cardano?
+
+Cardano is the blockchain that I will be focusing on to illustrate the benefits of staking and the potential new business models that can be created through staking. Cardano is a “third generation blockchain" which is defined as a blockchain that is superior in technology and is built for the new challenges blockchains face in today’s marketplace. Cardano is being developed by Input-Output Global and other various companies, headed by Charles Hoskinson. In my eyes, Cardano was built for the sole purpose of democratizing global finance and “banking the unbanked,” a popular ethos of cryptocurrencies and digital assets.
+
+Cardano's Key Metrics:
+* Circulating Supply Staked: 70.68% (~$11.12 bil)
+* Projects Being Built on Cardano: 1003
+* Decentralized Treasury Holdings: $ ~1 bil. ADA (~500 mil. USD)
+* Ouroboros: Best-in-class Staking Protocol
+* Stake Pools/Validators: 3204\
+
+Staking is one of the most integral aspects of the Cardano ecosystem. Cardano uses a novel consensus protocol named Ouroboros to provide the staking services to market participants. Ouroboros allows users to stake ADA, Cardano's native asset, in a completely liquid state. In other networks, like Ethereum and Solana, these assets are locked up and taken off-chain, while Cardano instead keeps all tokens on the network. Cardano accomplishes this by using the user’s private keys to assign ownership of the staked tokens. This is why you can always liquidate your stake in Cardano, as the tokens live actively on the network as they are staked. Users can earn a return on their investment while also being able to quickly react to market dynamics as they have full access to their assets at all times. A truly inspiring application of staking.
+
+### Stake Pools 
+
+Stake Pool Operators or SPOs are the validators that process Cardano’s transactions and are rewarded with block subsidies and transaction fees. As mentioned above, Cardano’s current number of validators on the network is 3204, which allows for an extreme case in decentralization and security. Cardano has seen success in growing its validator base because of its saturation mechanism. Simairlity to bitcoin’s difficulty adjustment which makes it harder to solve the “proof-of-work” as more hash rate enters the bitcoin network, Cardano’s stake pools will adjust rewards dynamically as more stake is invested into each pool. As more stake is invested, the pool becomes saturated and this process incentivizes more pools to be created as the returns on investment diminishes. As the return on staking ADA decreases, more validators set up operations to fulfill the demand for their stake pool. More validators competing for transactions increase decentralization and more servers hosting Cardano’s protocol means more security. This creates a positive economic feedback loop for the network.
+
+### Social Good Meets Return On Investment 
+
+A new emerging business model can be utilized within the Cardano ecosystem. Running a stake pool is a business endeavor, and should be treated as such to keep economic incentives aligned for network growth. The goal is to increase your pool’s stake to saturation, then open more pools to fulfill the demand for staking in your pools. However, there can be an alignment of social good and return on investment for staking on Cardano. I believe this is where the opportunity lies. As operating a stake pool, you are able to use profits made from operations to provide funds to social projects all over the globe. A great example of this is Digital Asset News and its stake pool operations. Currently, a certain percentage of all profits made from the stake pool is used on Kiva.org for micro-loans to businesses and citizens in emerging markets.
+
+As our world has become hyper-digitized, it is even easier to engage with communities around the globe and support economic growth in these communities. This focus on social good from operating a stake pool can be used to incentivize more market participants to use their assets to help fund social causes and spread well-being across the globe. The opportunity is only just beginning as Cardano is slated for a major upgrade to its network in 2023, amply named Hyrda, (the mythological creature with many heads) which allows SPOs to act as sidechains (chains running parallel to the main chain, using the main chain as security). These SPOs can earn a return on their ADA but also the token of the sidechain, further increasing returns and the ability to help fund social causes.
+
+Staking will continue to grow as the cryptocurrency and digital asset industry matures and more market participants enter the market looking for new ways of engaging in the global digital economy. Large corporations and institutions will enter as regulation is defined and the need to diversify investments away from traditional assets becomes more apparent. Cardano is setting a pathway for new businesses to emerge that bridge the gap between for-profit and non-profit endeavors, leading to a more just and equitable world for us all.
+
+### Sources 
+
+<a href="https://www.investopedia.com/bitcoin-halving-4843769#:~:text=As%20of%202022%2C%20Bitcoin%20miners,the%20block%20reward%20approaches%20zero." target="_blank" rel="noopener noreferrer"> The Bitcoin Halving </a>
+
+<a href="https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume" target="_blank" rel="noopener noreferrer"> Bitcoin Enery Consumption </a>
+
+<a href="https://www.cryptovantage.com/news/ask-cryptovantage-whats-a-third-generation-cryptocurrency/#:~:text=In%20essence%2C%20the%20third%20generation,smart%20contracts%20and%20decentralized%20apps." target="_blank" rel="noopener noreferrer"> What is Cardano? </a>
+
+<a href="https://www.kiva.org/lp/qw" target="_blank" rel="noopener noreferrer"> Kiva's Micorloan Service </a>
+
+<a href="https://www.youtube.com/c/DigitalAssetNewsDAN" target="_blank" rel="noopener noreferrer"> Digital Asset News </a>
